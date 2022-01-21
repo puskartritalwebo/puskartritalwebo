@@ -5,7 +5,7 @@
 
 * I’m currently working on some personal skills development.                
 * Have worked on Various __Clouds Providers(Azure,AWS,GCP)__ ,__Kubernetes__, __Docker__, __Terraform__, __Docker Swarm__ , __Jenkins__  etc.
-* And on security including __OWASP__,  __SonarQube__ and __openVAS etc.__
+* And on security including __OWASP TOP 10__,  __SonarQube__ and __OpenVAS etc.__
 * Loves to work with newer technologies and OpenSource of course !
  
 <hr/>
